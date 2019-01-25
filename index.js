@@ -1,5 +1,7 @@
 // write your code below!
-function happyHolidays(); 
+function happyHolidays() {
+  return string.happyHolidays();
+} 
 
 function (happyHolidays(`Happy holidays, ${name}!`);
 
